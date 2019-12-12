@@ -17,7 +17,7 @@ def long_planeteer_calls(calls)
   end
 end
 
-def find_the_cheese# code an argument here
+def find_the_cheese(array) 
    i = 0
   cheese_types = ["cheddar", "gouda", "camembert"]
    while i < cheese_types.length
